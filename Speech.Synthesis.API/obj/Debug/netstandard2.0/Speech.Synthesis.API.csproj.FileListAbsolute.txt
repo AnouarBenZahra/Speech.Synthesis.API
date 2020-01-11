@@ -1,0 +1,5 @@
+C:\Users\anoua\source\repos\Speech.Synthesis.API\Speech.Synthesis.API\bin\Debug\netstandard2.0\Speech.Synthesis.API.deps.json
+C:\Users\anoua\source\repos\Speech.Synthesis.API\Speech.Synthesis.API\bin\Debug\netstandard2.0\Speech.Synthesis.API.dll
+C:\Users\anoua\source\repos\Speech.Synthesis.API\Speech.Synthesis.API\obj\Debug\netstandard2.0\Speech.Synthesis.API.csprojAssemblyReference.cache
+C:\Users\anoua\source\repos\Speech.Synthesis.API\Speech.Synthesis.API\obj\Debug\netstandard2.0\Speech.Synthesis.API.AssemblyInfoInputs.cache
+C:\Users\anoua\source\repos\Speech.Synthesis.API\Speech.Synthesis.API\obj\Debug\netstandard2.0\Speech.Synthesis.API.AssemblyInfo.cs
